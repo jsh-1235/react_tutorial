@@ -10,7 +10,7 @@ function App() {
         <h1>Hi React!!!</h1>
         <p>My name is jsh.</p>
         <p>담배 피고 올께 ㅋㅋㅋ</p>
-        <p>가자</p>
+        <p>오줌 말려...</p>
       </header>
     </div>
   );
